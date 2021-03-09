@@ -1,0 +1,3 @@
+git config --global user.name MochaShrup
+git config --global user.email yeanjun0222@gmail.com
+컴퓨터 전체에 옵션을 사용 
